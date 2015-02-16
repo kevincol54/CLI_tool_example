@@ -1,0 +1,14 @@
+{
+  "name": "Stock_quoter",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "authors": "Kevin Collins <kcollins@carekinesis.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "superagent": "^0.21.0"
+  },
+  "devDependencies": {}
+}
