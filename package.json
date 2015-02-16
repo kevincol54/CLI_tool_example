@@ -8,6 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "chalk": "^0.5.1",
     "superagent": "^0.21.0"
   },
   "devDependencies": {}
